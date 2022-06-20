@@ -1,0 +1,14 @@
+E:\Documents\VS2013Projects\Puzzle_English\Puzzle_English\bin\Debug\Puzzle_English.exe.config
+E:\Documents\VS2013Projects\Puzzle_English\Puzzle_English\bin\Debug\Puzzle_English.exe
+E:\Documents\VS2013Projects\Puzzle_English\Puzzle_English\bin\Debug\Puzzle_English.pdb
+E:\Documents\VS2013Projects\Puzzle_English\Puzzle_English\obj\Debug\Puzzle_English.csprojResolveAssemblyReference.cache
+E:\Documents\VS2013Projects\Puzzle_English\Puzzle_English\obj\Debug\Puzzle_English.Form1.resources
+E:\Documents\VS2013Projects\Puzzle_English\Puzzle_English\obj\Debug\Puzzle_English.Properties.Resources.resources
+E:\Documents\VS2013Projects\Puzzle_English\Puzzle_English\obj\Debug\Puzzle_English.csproj.GenerateResource.Cache
+E:\Documents\VS2013Projects\Puzzle_English\Puzzle_English\obj\Debug\Puzzle_English.exe
+E:\Documents\VS2013Projects\Puzzle_English\Puzzle_English\obj\Debug\Puzzle_English.pdb
+E:\Documents\VS2013Projects\Puzzle_English\Puzzle_English\bin\Debug\Interop.WMPLib.dll
+E:\Documents\VS2013Projects\Puzzle_English\Puzzle_English\bin\Debug\AxInterop.WMPLib.dll
+E:\Documents\VS2013Projects\Puzzle_English\Puzzle_English\obj\Debug\Interop.WMPLib.dll
+E:\Documents\VS2013Projects\Puzzle_English\Puzzle_English\obj\Debug\AxInterop.WMPLib.dll
+E:\Documents\VS2013Projects\Puzzle_English\Puzzle_English\obj\Debug\Puzzle_English.csproj.ResolveComReference.cache
